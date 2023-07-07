@@ -1,0 +1,42 @@
+{
+  "appName": "Azazel Games kliens",
+  "ok" : "Ok",
+  "stroop_game": {
+    "purple_word" : "LILA",
+    "red_word" : "PIROS",
+    "blue_word" : "KÉK",
+    "orange_word" : "NARANCS",
+    "start_test"  : "Indítsa el a tesztet",
+    "next" : "Következő",
+    "or_space": "Vagy nyomja meg a \"Space\"/\"Enter\" billentyűt a folytatáshoz",
+    "previous" : "Előző",
+    "seconds" : "másodperc",
+    "minutes" : "perc",
+    "progress" : "Előrehaladás:",
+    "timer" : "Időzítő:",
+    "stage" : "Szakasz:",
+    "wrong_answer_toast": "Rossz válasz. Próbáld újra!",
+    "correct_answer_toast": "Szép munka!",
+    "average_time_first_stage" : "Átlagos reakcióidő első szakasz: {time} ms",
+    "average_time_second_stage" : "Átlagos reakcióidő második szakasz: {time} ms",
+    "first_stage_title" : "Szakasz 1",
+    "second_stage_title" : "Szakasz 2",
+    "see_results" : "Lásd az eredményeket",
+    "final_results_title" : "Szép munka!",
+    "final_results_subtitle" : "Íme a Stroop teszt eredményei:",
+    "among_top_text": "A pontszámod jobb, mint a játékosok {percent}%-a!",
+    "select_language" : "Válasszon Nyelvet",
+    "continue_word" : "Folytatni",
+    "instruction" : "Utasítás",
+    "practice" : "Gyakorlat",
+    "step_one_instruction" : "Ebben a tesztben különböző színekben jelennek meg a szavak. Az Ön feladata, hogy jelezze minden szó SZÍNÉT, miközben figyelmen kívül hagyja azt, amit a szavak valójában mondanak. Állítsa be a kijelző fényerejét, hogy a szavak színei egyértelműen megkülönböztethetők legyenek.",
+    "step_two_instruction" : "Jelölje ki a szó színét a megfelelő gomb megnyomásával: L – LILA szín, P – PIROS, K – KÉK és N – NARANCS",
+    "step_three_instruction" : "Helyezze ujjait a 4 gombra (L – LILA szín, P – PIROS, K – KÉK és N – NARANCS), és próbálja megnyomni őket, amikor a legpontosabban látja a szavakat a képernyőn, amilyen gyorsan csak tudja. A folytatáshoz nyomja meg a \"Space\"/\"Enter\" billentyűt vagy a \"Teszt indítása\" gombot",
+    "pre_last_stage_instructions" : "Ebben a tesztben olyan szavakat fog látni, amelyek színe eltér attól, amit a szó jelent. Az Ön feladata, hogy jelezze minden szó SZÍNÉT, miközben figyelmen kívül hagyja azt, amit a szavak valójában mondanak. Állítsa be a kijelző fényerejét, hogy a szavak színei egyértelműen megkülönböztethetők legyenek. A folytatáshoz nyomja meg a \"Space\"/\"Enter\" billentyűt vagy a \"Következő\" gombot"
+  },
+  "errors": {
+    "something_went_wrong_title" : "Hoppá! Valami elromlott.",
+    "something_went_wrong_message" : "A keresett tartalom technikai okok miatt nem érhető el. Kérem, próbálja meg újraindítani a tesztet",
+    "restart_test": "Indítsa újra a tesztet"
+  }
+}

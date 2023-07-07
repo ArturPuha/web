@@ -1,0 +1,42 @@
+{
+  "appName": "Azazel Games Client",
+  "ok" : "Ok",
+  "stroop_game": {
+    "purple_word" : "PURPLE",
+    "red_word" : "RED",
+    "blue_word" : "BLUE",
+    "orange_word" : "ORANGE",
+    "start_test"  : "Start test",
+    "next" : "Next",
+    "or_space": "Or press \"Space\"/\"Enter\" to proceed",
+    "previous" : "Previous",
+    "seconds" : "seconds",
+    "minutes" : "minutes",
+    "progress" : "Progress:",
+    "timer" : "Timer:",
+    "stage" : "Stage:",
+    "wrong_answer_toast": "Wrong answer. Try again!",
+    "correct_answer_toast": "Good job!",
+    "average_time_first_stage" : "Average reaction time first stage: {time} ms",
+    "average_time_second_stage" : "Average reaction time second stage: {time} ms",
+    "first_stage_title" : "Stage 1",
+    "second_stage_title" : "Stage 2",
+    "see_results" : "See results",
+    "final_results_title" : "Well done",
+    "final_results_subtitle" : "Here is your Stroop Test results:",
+    "among_top_text": "You score is better than {percent}% of players!",
+    "select_language" : "Select Language",
+    "continue_word" : "Continue",
+    "instruction" : "Instruction",
+    "practice" : "Practice",
+    "step_one_instruction" : "In this test you will see words presented in different colors. Your task is to indicate the COLOR each word is colored in while ignoring what the words actually say. Adjust the brightness of the display so that the colors of the words are clearly distinguished.",
+    "step_two_instruction" : "Indicate the color of the word by pressing corresponding button: P – for PURPLE color, R – for RED, B – for BLUE and O – for ORANGE.",
+    "step_three_instruction" : "Place your fingers on 4 buttons (P – for PURPLE color, R – for RED, B – for BLUE and O – for ORANGE) and try to press them when you see words on the screen as quickly and accurately as you can. To proceed, press \"Space\"/\"Enter\" or the \"Start test\" button",
+    "pre_last_stage_instructions" : "In this test you will see words presented in color that differs from what the word says. Your task is to indicate the COLOR each word is colored in while ignoring what the words actually say. Adjust the brightness of the display so that the colors of the words are clearly distinguished. To proceed, press \"Space\"/\"Enter\" or the \"Next\" button"
+    },
+  "errors": {
+    "something_went_wrong_title" : "Oops! Something went wrong.",
+    "something_went_wrong_message" : "The content you are looking for can’t be accessed due to technical issues. Please, try to reload the page or restart the test.",
+    "restart_test": "Restart test"
+  }
+}
